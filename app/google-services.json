@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "287812948660",
+    "firebase_url": "https://testing-image-40b84.firebaseio.com",
+    "project_id": "testing-image-40b84",
+    "storage_bucket": "testing-image-40b84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287812948660:android:7c4de555b34001ec",
+        "android_client_info": {
+          "package_name": "com.example.kaloka3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287812948660-df51nlrcf28pqqhs0ddd87kv1qt6rh87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV5EyJWIkFKyve_-QjDOa4eIYxxOHavn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287812948660-df51nlrcf28pqqhs0ddd87kv1qt6rh87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
